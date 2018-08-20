@@ -82,7 +82,7 @@ public class OnlineShoppingFeatureStepDefinition {
 		p.setPrice(15000);
 		p.setDescription("Redmi note6");
 		p.setManufactureDate("2017-05-12");
-		return new Product("mi07", "Mi", 15000, "Redmi note6", "2017-05-12");
+		return new Product("mi08", "Mi", 15000, "Redmi note6", "2017-05-12");
 	}
 
 
